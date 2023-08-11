@@ -17,7 +17,7 @@ import plotly.express as px
 # In[4]:
 
 
-data = pd.read_csv(r'C:\Users\parveen\Desktop\Unemployment_Rate_upto_11_2020.csv')
+data = pd.read_csv(r'C:\Users\Rijul\Downloads\Unemployment_Rate_upto_11_2020.csv')
     
 
 
